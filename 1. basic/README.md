@@ -156,4 +156,7 @@ sudo uvicorn main:app --host 0.0.0.0 --port 80 > app.log 2>&1 &
 
   ![Untitled](images/Untitled%2018.png)
 
+## 리소스 정리
+
+실습이 끝난 후 리소스 그룹을 삭제하여 불필요한 비용이 발생하지 않도록 합니다.
 고생하셨습니다 🙂
